@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/weight_on_planetx.iml" filepath="$PROJECT_DIR$/weight_on_planetx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weight_on_planetx_android.iml" filepath="$PROJECT_DIR$/weight_on_planetx_android.iml" />
+    </modules>
+  </component>
+</project>
